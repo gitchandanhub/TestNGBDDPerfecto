@@ -1,0 +1,28 @@
+package Utility;
+
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+
+import Base.AppDriver;
+
+public class NavigateUrl extends AppDriver
+{
+    public void g()
+    {
+    	List<WebElement> list = driver.findElements(By.tagName("a"));
+    	System.out.println(alist.size());
+  	  for(int i =0; i<10; i++)
+  	  {
+  		  String url = alist.get(i).getAttribute("href");
+  		  System.out.println(url);
+  		  System.setProperty("webdriver.chrome.driver", "C:\\Users\\cchauhan\\git\\Strie\\Driver\\83chrome\\chromedriver.exe");
+            System.setProperty("webdriver.chrome.silentOutput", "true");
+  		  driver = new ChromeDriver();
+  		  driver.navigate().to(url);
+  		  Thread.sleep(3000);
+  		  driver.close();
+  	  }
+    }
+}

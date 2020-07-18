@@ -1,0 +1,15 @@
+package Execution;
+
+import org.testng.annotations.Test;
+
+import Base.AppDriver;
+import Utility.Verifylinks;
+
+public class TestCases extends AppDriver
+{
+      @Test
+      public void verifylinks()
+      {
+    	  Verifylinks obj = new Verifylinks();
+      }
+}

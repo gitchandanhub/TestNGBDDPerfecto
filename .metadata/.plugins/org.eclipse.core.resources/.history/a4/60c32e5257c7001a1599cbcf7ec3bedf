@@ -1,0 +1,13 @@
+package Pages;
+
+import org.openqa.selenium.support.PageFactory;
+
+import Base.AppDriver;
+
+public class ContactUs extends AppDriver 
+{
+        public ContactUs()
+        {
+        	PageFactory.initElements(driver, this);
+        }
+}

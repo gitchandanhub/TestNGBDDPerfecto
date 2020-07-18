@@ -1,0 +1,19 @@
+package Pages;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+import Base.AppDriver;
+
+public class Loginpage extends AppDriver
+{
+                public Loginpage()
+                {
+                	PageFactory.initElements(driver, this);
+                }
+                
+                @FindBy(id = "Login1_UserName")  WebElement usernm;
+                @FindBy(id = "Login1_UserName")  WebElement usernm;
+                @FindBy(id = "Login1_UserName")  WebElement usernm;
+}

@@ -1,0 +1,15 @@
+package Pages;
+
+import org.openqa.selenium.support.PageFactory;
+
+import Base.AppDriver;
+
+public class Loginpage extends AppDriver
+{
+                public Loginpage()
+                {
+                	PageFactory.initElements(driver, this);
+                }
+                
+                @FindBy()  WebElement ;
+}

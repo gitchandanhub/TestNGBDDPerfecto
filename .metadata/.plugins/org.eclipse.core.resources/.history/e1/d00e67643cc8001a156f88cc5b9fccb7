@@ -1,0 +1,13 @@
+package Utility;
+
+import org.openqa.selenium.By;
+
+import Base.AppDriver;
+
+public class NavigateUrl extends AppDriver
+{
+    public void g()
+    {
+    	List<WebElement> list = driver.findElements(By.tagName("a"));
+    }
+}

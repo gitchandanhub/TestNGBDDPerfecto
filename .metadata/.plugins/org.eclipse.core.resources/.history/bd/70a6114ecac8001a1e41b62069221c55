@@ -1,0 +1,13 @@
+package Pages;
+
+import org.openqa.selenium.support.PageFactory;
+
+import Base.AppDriver;
+
+public class POmaster extends AppDriver
+{
+           public POmaster()
+           {
+        	   PageFactory.initElements(driver, this);
+           }
+}

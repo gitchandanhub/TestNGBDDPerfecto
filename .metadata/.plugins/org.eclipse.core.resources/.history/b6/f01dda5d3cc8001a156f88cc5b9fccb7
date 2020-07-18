@@ -1,0 +1,11 @@
+package Utility;
+
+import Base.AppDriver;
+
+public class NavigateUrl extends AppDriver
+{
+    public void g()
+    {
+    	
+    }
+}

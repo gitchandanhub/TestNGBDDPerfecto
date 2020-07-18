@@ -1,0 +1,13 @@
+package Pages;
+
+import org.openqa.selenium.support.PageFactory;
+
+import Base.AppDriver;
+
+public class Dashboard  extends AppDriver 
+{
+     public Dashboard()
+     {
+    	 PageFactory.initElements(driver, this);
+     }
+}

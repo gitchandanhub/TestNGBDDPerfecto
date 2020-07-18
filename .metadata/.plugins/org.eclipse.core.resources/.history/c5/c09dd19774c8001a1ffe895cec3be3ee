@@ -1,0 +1,23 @@
+package Execution;
+
+import org.testng.annotations.Test;
+
+import Base.AppDriver;
+import Pages.Loginpage;
+
+public class Testcases extends AppDriver 
+{
+              @Test(priority =0)
+              public void LoginTest() throws InterruptedException
+              {
+            	  Loginpage  lpobj = new Loginpage();
+            	  lpobj.Enterusername(config.getProperty("Username"));
+            	  lpobj.Enterpsswrd(config.getProperty("Password"));
+            	  lpobj.clickbtn();
+              }
+              @Test(priority =1)
+              public void verifyImages()
+              {
+            	  
+              }
+}

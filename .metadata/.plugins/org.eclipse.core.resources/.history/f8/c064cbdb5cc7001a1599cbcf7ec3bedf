@@ -1,0 +1,14 @@
+Url = http://www.pisoftek.com/index.php
+Url1 = http://www.pisoftware.in
+
+BrowserName = Chrome
+#BrowserName = Firefox
+#BrowserName = IE
+
+Chropath = ./Driver\\chromedriver.exe
+ChromeDriver_path =  ./Driver\\chromedriver.exe
+FireFoxDriver_path = ./Driver\\geckodriver.exe
+
+IEDriver_path =  ./Driver\\IDDriverServer.exe
+
+ExtentReport_path = ./Report\\

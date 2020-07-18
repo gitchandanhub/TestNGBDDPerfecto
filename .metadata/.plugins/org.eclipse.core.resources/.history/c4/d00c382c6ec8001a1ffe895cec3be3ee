@@ -1,0 +1,22 @@
+Url = http://www.pisoftek.com/index.php
+Url1 = http://www.pisoftware.in
+
+contact = https://www.pisoftek.com/contact.php
+
+BrowserName = Chrome
+#BrowserName = Firefox
+#BrowserName = IE
+
+Chropath = ./Driver\\chromedriver.exe
+ChromeDriver_path =  ./Driver\\chromedriver.exe
+FireFoxDriver_path = ./Driver\\geckodriver.exe
+
+IEDriver_path =  ./Driver\\IDDriverServer.exe
+
+ExtentReport_path = ./Report\\
+
+#ContactUS
+Name = Chandan
+Email = schandan.pisoftek@gmail.com
+Mobile = 9319148864
+Details = This is Automation test

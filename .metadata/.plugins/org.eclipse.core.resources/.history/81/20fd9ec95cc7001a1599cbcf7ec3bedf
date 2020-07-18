@@ -1,0 +1,23 @@
+package Execution;
+
+import java.io.IOException;
+
+import org.testng.annotations.Test;
+
+import Base.AppDriver;
+import Utility.Verifylinks;
+
+public class TestCases extends AppDriver
+{
+      @Test(priority = 1)
+      public void verifylinks() throws IOException, InterruptedException
+      {
+    	  Verifylinks obj = new Verifylinks();
+    	  obj.linktest();
+      }
+      @Test(priority = 0)
+      public void verifyContact()
+      {
+    	  ContactUs con = new ContactUs();
+      }
+}

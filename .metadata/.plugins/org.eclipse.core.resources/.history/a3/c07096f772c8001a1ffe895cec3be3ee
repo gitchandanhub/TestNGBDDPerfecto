@@ -1,0 +1,9 @@
+package Utility;
+
+public class VerifyImages 
+{
+      public void ValidateImage()
+      {
+    	  
+      }
+}

@@ -1,0 +1,281 @@
+13:03:44,339  INFO devpinoyLogger:25 - Username Entered GR9
+13:03:45,509  INFO devpinoyLogger:33 - Password Entered welcome@1
+13:04:56,712  INFO devpinoyLogger:40 - Login button clicked
+13:04:56,886 DEBUG RequestAddCookies:122 - CookieSpec selected: default
+13:04:56,886 DEBUG RequestAuthCache:76 - Auth cache not set in the context
+13:04:56,902 DEBUG PoolingHttpClientConnectionManager:249 - Connection request: [route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+13:04:56,902 DEBUG PoolingHttpClientConnectionManager:282 - Connection leased: [id: 0][route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+13:04:56,917 DEBUG MainClientExec:234 - Opening connection {s}->https://162.255.233.19:8443
+13:04:56,917 DEBUG DefaultHttpClientConnectionOperator:138 - Connecting to /162.255.233.19:8443
+13:04:56,917 DEBUG SSLConnectionSocketFactory:335 - Connecting socket to /162.255.233.19:8443 with timeout 0
+13:04:57,377 DEBUG SSLConnectionSocketFactory:388 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+13:04:57,378 DEBUG SSLConnectionSocketFactory:389 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+13:04:57,378 DEBUG SSLConnectionSocketFactory:393 - Starting handshake
+13:04:59,406 DEBUG DefaultManagedHttpClientConnection:98 - http-outgoing-0: Shutdown connection
+13:04:59,407 DEBUG MainClientExec:128 - Connection discarded
+13:04:59,407 DEBUG PoolingHttpClientConnectionManager:320 - Connection released: [id: 0][route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+13:04:59,423 DEBUG RequestAddCookies:122 - CookieSpec selected: default
+13:04:59,423 DEBUG RequestAuthCache:76 - Auth cache not set in the context
+13:04:59,423 DEBUG PoolingHttpClientConnectionManager:249 - Connection request: [route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+13:04:59,423 DEBUG PoolingHttpClientConnectionManager:282 - Connection leased: [id: 1][route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+13:04:59,423 DEBUG MainClientExec:234 - Opening connection {s}->https://162.255.233.19:8443
+13:04:59,423 DEBUG DefaultHttpClientConnectionOperator:138 - Connecting to /162.255.233.19:8443
+13:04:59,423 DEBUG SSLConnectionSocketFactory:335 - Connecting socket to /162.255.233.19:8443 with timeout 0
+13:04:59,751 DEBUG SSLConnectionSocketFactory:388 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+13:04:59,751 DEBUG SSLConnectionSocketFactory:389 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+13:04:59,751 DEBUG SSLConnectionSocketFactory:393 - Starting handshake
+13:05:00,431 DEBUG DefaultManagedHttpClientConnection:98 - http-outgoing-1: Shutdown connection
+13:05:00,431 DEBUG MainClientExec:128 - Connection discarded
+13:05:00,431 DEBUG PoolingHttpClientConnectionManager:320 - Connection released: [id: 1][route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+13:05:00,447 DEBUG RequestAddCookies:122 - CookieSpec selected: default
+13:05:00,447 DEBUG RequestAuthCache:76 - Auth cache not set in the context
+13:05:00,447 DEBUG PoolingHttpClientConnectionManager:249 - Connection request: [route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+13:05:00,447 DEBUG PoolingHttpClientConnectionManager:282 - Connection leased: [id: 2][route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+13:05:00,447 DEBUG MainClientExec:234 - Opening connection {s}->https://162.255.233.19:8443
+13:05:00,447 DEBUG DefaultHttpClientConnectionOperator:138 - Connecting to /162.255.233.19:8443
+13:05:00,447 DEBUG SSLConnectionSocketFactory:335 - Connecting socket to /162.255.233.19:8443 with timeout 0
+13:05:00,994 DEBUG SSLConnectionSocketFactory:388 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+13:05:00,994 DEBUG SSLConnectionSocketFactory:389 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+13:05:00,994 DEBUG SSLConnectionSocketFactory:393 - Starting handshake
+13:05:01,630 DEBUG DefaultManagedHttpClientConnection:98 - http-outgoing-2: Shutdown connection
+13:05:01,630 DEBUG MainClientExec:128 - Connection discarded
+13:05:01,630 DEBUG PoolingHttpClientConnectionManager:320 - Connection released: [id: 2][route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+13:05:01,661 DEBUG RequestAddCookies:122 - CookieSpec selected: default
+13:05:01,661 DEBUG RequestAuthCache:76 - Auth cache not set in the context
+13:05:01,661 DEBUG PoolingHttpClientConnectionManager:249 - Connection request: [route: {}->http://s3.amazonaws.com:80][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+13:05:01,661 DEBUG PoolingHttpClientConnectionManager:282 - Connection leased: [id: 3][route: {}->http://s3.amazonaws.com:80][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+13:05:01,661 DEBUG MainClientExec:234 - Opening connection {}->http://s3.amazonaws.com:80
+13:05:01,724 DEBUG DefaultHttpClientConnectionOperator:138 - Connecting to s3.amazonaws.com/52.217.14.174:80
+13:05:02,036 DEBUG DefaultHttpClientConnectionOperator:145 - Connection established 192.168.43.46:61248<->52.217.14.174:80
+13:05:02,036 DEBUG MainClientExec:255 - Executing request GET /northstarwms.sharpplm.com/Accounts/10046/10046_GR9.png HTTP/1.1
+13:05:02,036 DEBUG MainClientExec:260 - Target auth state: UNCHALLENGED
+13:05:02,036 DEBUG MainClientExec:266 - Proxy auth state: UNCHALLENGED
+13:05:02,036 DEBUG headers:135 - http-outgoing-3 >> GET /northstarwms.sharpplm.com/Accounts/10046/10046_GR9.png HTTP/1.1
+13:05:02,036 DEBUG headers:138 - http-outgoing-3 >> Host: s3.amazonaws.com
+13:05:02,036 DEBUG headers:138 - http-outgoing-3 >> Connection: Keep-Alive
+13:05:02,036 DEBUG headers:138 - http-outgoing-3 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_251)
+13:05:02,036 DEBUG headers:138 - http-outgoing-3 >> Accept-Encoding: gzip,deflate
+13:05:02,036 DEBUG wire:72 - http-outgoing-3 >> "GET /northstarwms.sharpplm.com/Accounts/10046/10046_GR9.png HTTP/1.1[\r][\n]"
+13:05:02,036 DEBUG wire:72 - http-outgoing-3 >> "Host: s3.amazonaws.com[\r][\n]"
+13:05:02,036 DEBUG wire:72 - http-outgoing-3 >> "Connection: Keep-Alive[\r][\n]"
+13:05:02,051 DEBUG wire:72 - http-outgoing-3 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_251)[\r][\n]"
+13:05:02,051 DEBUG wire:72 - http-outgoing-3 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+13:05:02,051 DEBUG wire:72 - http-outgoing-3 >> "[\r][\n]"
+13:05:02,583 DEBUG wire:72 - http-outgoing-3 << "HTTP/1.1 200 OK[\r][\n]"
+13:05:02,583 DEBUG wire:72 - http-outgoing-3 << "x-amz-id-2: yUfv0gFLC+uj8ds7ZwV0xY8VN6jEGj0syadfyxJyYlcbJMq9w54hpwX88gt6CQKL5oIjmb39YCg=[\r][\n]"
+13:05:02,583 DEBUG wire:72 - http-outgoing-3 << "x-amz-request-id: 235533F331C2553E[\r][\n]"
+13:05:02,583 DEBUG wire:72 - http-outgoing-3 << "Date: Sat, 18 Jul 2020 07:35:03 GMT[\r][\n]"
+13:05:02,583 DEBUG wire:72 - http-outgoing-3 << "Last-Modified: Wed, 22 May 2019 07:15:38 GMT[\r][\n]"
+13:05:02,598 DEBUG wire:72 - http-outgoing-3 << "ETag: "b82c192c2d008f7ceca3a4bd8c749b6a"[\r][\n]"
+13:05:02,598 DEBUG wire:72 - http-outgoing-3 << "Accept-Ranges: bytes[\r][\n]"
+13:05:02,598 DEBUG wire:72 - http-outgoing-3 << "Content-Type: image/png[\r][\n]"
+13:05:02,598 DEBUG wire:72 - http-outgoing-3 << "Content-Length: 1137[\r][\n]"
+13:05:02,598 DEBUG wire:72 - http-outgoing-3 << "Server: AmazonS3[\r][\n]"
+13:05:02,598 DEBUG wire:72 - http-outgoing-3 << "[\r][\n]"
+13:05:02,598 DEBUG headers:124 - http-outgoing-3 << HTTP/1.1 200 OK
+13:05:02,598 DEBUG headers:127 - http-outgoing-3 << x-amz-id-2: yUfv0gFLC+uj8ds7ZwV0xY8VN6jEGj0syadfyxJyYlcbJMq9w54hpwX88gt6CQKL5oIjmb39YCg=
+13:05:02,598 DEBUG headers:127 - http-outgoing-3 << x-amz-request-id: 235533F331C2553E
+13:05:02,598 DEBUG headers:127 - http-outgoing-3 << Date: Sat, 18 Jul 2020 07:35:03 GMT
+13:05:02,598 DEBUG headers:127 - http-outgoing-3 << Last-Modified: Wed, 22 May 2019 07:15:38 GMT
+13:05:02,598 DEBUG headers:127 - http-outgoing-3 << ETag: "b82c192c2d008f7ceca3a4bd8c749b6a"
+13:05:02,598 DEBUG headers:127 - http-outgoing-3 << Accept-Ranges: bytes
+13:05:02,598 DEBUG headers:127 - http-outgoing-3 << Content-Type: image/png
+13:05:02,598 DEBUG headers:127 - http-outgoing-3 << Content-Length: 1137
+13:05:02,598 DEBUG headers:127 - http-outgoing-3 << Server: AmazonS3
+13:05:02,598 DEBUG MainClientExec:284 - Connection can be kept alive indefinitely
+13:05:02,614 DEBUG RequestAddCookies:122 - CookieSpec selected: default
+13:05:02,614 DEBUG RequestAuthCache:76 - Auth cache not set in the context
+13:05:02,614 DEBUG PoolingHttpClientConnectionManager:249 - Connection request: [route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+13:05:02,614 DEBUG PoolingHttpClientConnectionManager:282 - Connection leased: [id: 4][route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+13:05:02,614 DEBUG MainClientExec:234 - Opening connection {s}->https://162.255.233.19:8443
+13:05:02,614 DEBUG DefaultHttpClientConnectionOperator:138 - Connecting to /162.255.233.19:8443
+13:05:02,614 DEBUG SSLConnectionSocketFactory:335 - Connecting socket to /162.255.233.19:8443 with timeout 0
+13:05:02,974 DEBUG SSLConnectionSocketFactory:388 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+13:05:02,974 DEBUG SSLConnectionSocketFactory:389 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+13:05:02,974 DEBUG SSLConnectionSocketFactory:393 - Starting handshake
+13:05:04,198 DEBUG DefaultManagedHttpClientConnection:98 - http-outgoing-4: Shutdown connection
+13:05:04,198 DEBUG MainClientExec:128 - Connection discarded
+13:05:04,198 DEBUG PoolingHttpClientConnectionManager:320 - Connection released: [id: 4][route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+13:05:04,210 DEBUG RequestAddCookies:122 - CookieSpec selected: default
+13:05:04,211 DEBUG RequestAuthCache:76 - Auth cache not set in the context
+13:05:04,211 DEBUG PoolingHttpClientConnectionManager:249 - Connection request: [route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+13:05:04,211 DEBUG PoolingHttpClientConnectionManager:282 - Connection leased: [id: 5][route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+13:05:04,211 DEBUG MainClientExec:234 - Opening connection {s}->https://162.255.233.19:8443
+13:05:04,211 DEBUG DefaultHttpClientConnectionOperator:138 - Connecting to /162.255.233.19:8443
+13:05:04,211 DEBUG SSLConnectionSocketFactory:335 - Connecting socket to /162.255.233.19:8443 with timeout 0
+13:05:04,835 DEBUG SSLConnectionSocketFactory:388 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+13:05:04,835 DEBUG SSLConnectionSocketFactory:389 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+13:05:04,835 DEBUG SSLConnectionSocketFactory:393 - Starting handshake
+13:05:06,450 DEBUG DefaultManagedHttpClientConnection:98 - http-outgoing-5: Shutdown connection
+13:05:06,451 DEBUG MainClientExec:128 - Connection discarded
+13:05:06,451 DEBUG PoolingHttpClientConnectionManager:320 - Connection released: [id: 5][route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+13:05:06,463 DEBUG RequestAddCookies:122 - CookieSpec selected: default
+13:05:06,463 DEBUG RequestAuthCache:76 - Auth cache not set in the context
+13:05:06,464 DEBUG PoolingHttpClientConnectionManager:249 - Connection request: [route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+13:05:06,464 DEBUG PoolingHttpClientConnectionManager:282 - Connection leased: [id: 6][route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+13:05:06,464 DEBUG MainClientExec:234 - Opening connection {s}->https://162.255.233.19:8443
+13:05:06,464 DEBUG DefaultHttpClientConnectionOperator:138 - Connecting to /162.255.233.19:8443
+13:05:06,464 DEBUG SSLConnectionSocketFactory:335 - Connecting socket to /162.255.233.19:8443 with timeout 0
+13:05:06,759 DEBUG SSLConnectionSocketFactory:388 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+13:05:06,759 DEBUG SSLConnectionSocketFactory:389 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+13:05:06,759 DEBUG SSLConnectionSocketFactory:393 - Starting handshake
+13:05:07,256 DEBUG DefaultManagedHttpClientConnection:98 - http-outgoing-6: Shutdown connection
+13:05:07,257 DEBUG MainClientExec:128 - Connection discarded
+13:05:07,257 DEBUG PoolingHttpClientConnectionManager:320 - Connection released: [id: 6][route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+13:05:07,270 DEBUG RequestAddCookies:122 - CookieSpec selected: default
+13:05:07,271 DEBUG RequestAuthCache:76 - Auth cache not set in the context
+13:05:07,271 DEBUG PoolingHttpClientConnectionManager:249 - Connection request: [route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+13:05:07,271 DEBUG PoolingHttpClientConnectionManager:282 - Connection leased: [id: 7][route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+13:05:07,271 DEBUG MainClientExec:234 - Opening connection {s}->https://162.255.233.19:8443
+13:05:07,271 DEBUG DefaultHttpClientConnectionOperator:138 - Connecting to /162.255.233.19:8443
+13:05:07,272 DEBUG SSLConnectionSocketFactory:335 - Connecting socket to /162.255.233.19:8443 with timeout 0
+13:05:07,727 DEBUG SSLConnectionSocketFactory:388 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+13:05:07,728 DEBUG SSLConnectionSocketFactory:389 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+13:05:07,728 DEBUG SSLConnectionSocketFactory:393 - Starting handshake
+13:05:08,185 DEBUG DefaultManagedHttpClientConnection:98 - http-outgoing-7: Shutdown connection
+13:05:08,185 DEBUG MainClientExec:128 - Connection discarded
+13:05:08,186 DEBUG PoolingHttpClientConnectionManager:320 - Connection released: [id: 7][route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+13:05:08,212 DEBUG RequestAddCookies:122 - CookieSpec selected: default
+13:05:08,212 DEBUG RequestAuthCache:76 - Auth cache not set in the context
+13:05:08,212 DEBUG PoolingHttpClientConnectionManager:249 - Connection request: [route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+13:05:08,213 DEBUG PoolingHttpClientConnectionManager:282 - Connection leased: [id: 8][route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+13:05:08,213 DEBUG MainClientExec:234 - Opening connection {s}->https://162.255.233.19:8443
+13:05:08,213 DEBUG DefaultHttpClientConnectionOperator:138 - Connecting to /162.255.233.19:8443
+13:05:08,213 DEBUG SSLConnectionSocketFactory:335 - Connecting socket to /162.255.233.19:8443 with timeout 0
+13:05:08,511 DEBUG SSLConnectionSocketFactory:388 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+13:05:08,512 DEBUG SSLConnectionSocketFactory:389 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+13:05:08,513 DEBUG SSLConnectionSocketFactory:393 - Starting handshake
+13:05:08,995 DEBUG DefaultManagedHttpClientConnection:98 - http-outgoing-8: Shutdown connection
+13:05:08,995 DEBUG MainClientExec:128 - Connection discarded
+13:05:08,995 DEBUG PoolingHttpClientConnectionManager:320 - Connection released: [id: 8][route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+13:05:09,011 DEBUG RequestAddCookies:122 - CookieSpec selected: default
+13:05:09,011 DEBUG RequestAuthCache:76 - Auth cache not set in the context
+13:05:09,011 DEBUG PoolingHttpClientConnectionManager:249 - Connection request: [route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+13:05:09,011 DEBUG PoolingHttpClientConnectionManager:282 - Connection leased: [id: 9][route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+13:05:09,011 DEBUG MainClientExec:234 - Opening connection {s}->https://162.255.233.19:8443
+13:05:09,011 DEBUG DefaultHttpClientConnectionOperator:138 - Connecting to /162.255.233.19:8443
+13:05:09,011 DEBUG SSLConnectionSocketFactory:335 - Connecting socket to /162.255.233.19:8443 with timeout 0
+13:05:09,335 DEBUG SSLConnectionSocketFactory:388 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+13:05:09,336 DEBUG SSLConnectionSocketFactory:389 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+13:05:09,336 DEBUG SSLConnectionSocketFactory:393 - Starting handshake
+13:05:09,966 DEBUG DefaultManagedHttpClientConnection:98 - http-outgoing-9: Shutdown connection
+13:05:09,966 DEBUG MainClientExec:128 - Connection discarded
+13:05:09,966 DEBUG PoolingHttpClientConnectionManager:320 - Connection released: [id: 9][route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+13:05:09,979 DEBUG RequestAddCookies:122 - CookieSpec selected: default
+13:05:09,979 DEBUG RequestAuthCache:76 - Auth cache not set in the context
+13:05:09,980 DEBUG PoolingHttpClientConnectionManager:249 - Connection request: [route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+13:05:09,980 DEBUG PoolingHttpClientConnectionManager:282 - Connection leased: [id: 10][route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+13:05:09,980 DEBUG MainClientExec:234 - Opening connection {s}->https://162.255.233.19:8443
+13:05:09,980 DEBUG DefaultHttpClientConnectionOperator:138 - Connecting to /162.255.233.19:8443
+13:05:09,980 DEBUG SSLConnectionSocketFactory:335 - Connecting socket to /162.255.233.19:8443 with timeout 0
+13:05:10,303 DEBUG SSLConnectionSocketFactory:388 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+13:05:10,303 DEBUG SSLConnectionSocketFactory:389 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+13:05:10,304 DEBUG SSLConnectionSocketFactory:393 - Starting handshake
+13:05:11,559 DEBUG DefaultManagedHttpClientConnection:98 - http-outgoing-10: Shutdown connection
+13:05:11,559 DEBUG MainClientExec:128 - Connection discarded
+13:05:11,560 DEBUG PoolingHttpClientConnectionManager:320 - Connection released: [id: 10][route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+13:05:11,616 DEBUG RequestAddCookies:122 - CookieSpec selected: default
+13:05:11,616 DEBUG RequestAuthCache:76 - Auth cache not set in the context
+13:05:11,616 DEBUG PoolingHttpClientConnectionManager:249 - Connection request: [route: {}->http://s3.amazonaws.com:80][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+13:05:11,616 DEBUG PoolingHttpClientConnectionManager:282 - Connection leased: [id: 11][route: {}->http://s3.amazonaws.com:80][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+13:05:11,616 DEBUG MainClientExec:234 - Opening connection {}->http://s3.amazonaws.com:80
+13:05:11,617 DEBUG DefaultHttpClientConnectionOperator:138 - Connecting to s3.amazonaws.com/52.217.14.174:80
+13:05:11,938 DEBUG DefaultHttpClientConnectionOperator:145 - Connection established 192.168.43.46:61261<->52.217.14.174:80
+13:05:11,939 DEBUG MainClientExec:255 - Executing request GET /northstarwms.sharpplm.com/Accounts/10046/10046_GR9.png HTTP/1.1
+13:05:11,939 DEBUG MainClientExec:260 - Target auth state: UNCHALLENGED
+13:05:11,939 DEBUG MainClientExec:266 - Proxy auth state: UNCHALLENGED
+13:05:11,940 DEBUG headers:135 - http-outgoing-11 >> GET /northstarwms.sharpplm.com/Accounts/10046/10046_GR9.png HTTP/1.1
+13:05:11,940 DEBUG headers:138 - http-outgoing-11 >> Host: s3.amazonaws.com
+13:05:11,940 DEBUG headers:138 - http-outgoing-11 >> Connection: Keep-Alive
+13:05:11,941 DEBUG headers:138 - http-outgoing-11 >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_251)
+13:05:11,941 DEBUG headers:138 - http-outgoing-11 >> Accept-Encoding: gzip,deflate
+13:05:11,941 DEBUG wire:72 - http-outgoing-11 >> "GET /northstarwms.sharpplm.com/Accounts/10046/10046_GR9.png HTTP/1.1[\r][\n]"
+13:05:11,942 DEBUG wire:72 - http-outgoing-11 >> "Host: s3.amazonaws.com[\r][\n]"
+13:05:11,942 DEBUG wire:72 - http-outgoing-11 >> "Connection: Keep-Alive[\r][\n]"
+13:05:11,943 DEBUG wire:72 - http-outgoing-11 >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_251)[\r][\n]"
+13:05:11,943 DEBUG wire:72 - http-outgoing-11 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+13:05:11,943 DEBUG wire:72 - http-outgoing-11 >> "[\r][\n]"
+13:05:12,523 DEBUG wire:72 - http-outgoing-11 << "HTTP/1.1 200 OK[\r][\n]"
+13:05:12,524 DEBUG wire:72 - http-outgoing-11 << "x-amz-id-2: MXaBQOVpBaS9dmt30idWXtBzAoTJUhvr5lNAduc+Ueh//eOWoa9J3ucRZ2P7RNPrn2m5OpDXoFA=[\r][\n]"
+13:05:12,524 DEBUG wire:72 - http-outgoing-11 << "x-amz-request-id: D5DB613096419BC9[\r][\n]"
+13:05:12,525 DEBUG wire:72 - http-outgoing-11 << "Date: Sat, 18 Jul 2020 07:35:13 GMT[\r][\n]"
+13:05:12,525 DEBUG wire:72 - http-outgoing-11 << "Last-Modified: Wed, 22 May 2019 07:15:38 GMT[\r][\n]"
+13:05:12,526 DEBUG wire:72 - http-outgoing-11 << "ETag: "b82c192c2d008f7ceca3a4bd8c749b6a"[\r][\n]"
+13:05:12,526 DEBUG wire:72 - http-outgoing-11 << "Accept-Ranges: bytes[\r][\n]"
+13:05:12,526 DEBUG wire:72 - http-outgoing-11 << "Content-Type: image/png[\r][\n]"
+13:05:12,527 DEBUG wire:72 - http-outgoing-11 << "Content-Length: 1137[\r][\n]"
+13:05:12,527 DEBUG wire:72 - http-outgoing-11 << "Server: AmazonS3[\r][\n]"
+13:05:12,527 DEBUG wire:72 - http-outgoing-11 << "[\r][\n]"
+13:05:12,528 DEBUG headers:124 - http-outgoing-11 << HTTP/1.1 200 OK
+13:05:12,528 DEBUG headers:127 - http-outgoing-11 << x-amz-id-2: MXaBQOVpBaS9dmt30idWXtBzAoTJUhvr5lNAduc+Ueh//eOWoa9J3ucRZ2P7RNPrn2m5OpDXoFA=
+13:05:12,528 DEBUG headers:127 - http-outgoing-11 << x-amz-request-id: D5DB613096419BC9
+13:05:12,528 DEBUG headers:127 - http-outgoing-11 << Date: Sat, 18 Jul 2020 07:35:13 GMT
+13:05:12,528 DEBUG headers:127 - http-outgoing-11 << Last-Modified: Wed, 22 May 2019 07:15:38 GMT
+13:05:12,528 DEBUG headers:127 - http-outgoing-11 << ETag: "b82c192c2d008f7ceca3a4bd8c749b6a"
+13:05:12,528 DEBUG headers:127 - http-outgoing-11 << Accept-Ranges: bytes
+13:05:12,528 DEBUG headers:127 - http-outgoing-11 << Content-Type: image/png
+13:05:12,528 DEBUG headers:127 - http-outgoing-11 << Content-Length: 1137
+13:05:12,528 DEBUG headers:127 - http-outgoing-11 << Server: AmazonS3
+13:05:12,529 DEBUG MainClientExec:284 - Connection can be kept alive indefinitely
+13:05:12,539 DEBUG RequestAddCookies:122 - CookieSpec selected: default
+13:05:12,539 DEBUG RequestAuthCache:76 - Auth cache not set in the context
+13:05:12,540 DEBUG PoolingHttpClientConnectionManager:249 - Connection request: [route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+13:05:12,540 DEBUG PoolingHttpClientConnectionManager:282 - Connection leased: [id: 12][route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+13:05:12,540 DEBUG MainClientExec:234 - Opening connection {s}->https://162.255.233.19:8443
+13:05:12,540 DEBUG DefaultHttpClientConnectionOperator:138 - Connecting to /162.255.233.19:8443
+13:05:12,540 DEBUG SSLConnectionSocketFactory:335 - Connecting socket to /162.255.233.19:8443 with timeout 0
+13:05:13,138 DEBUG SSLConnectionSocketFactory:388 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+13:05:13,138 DEBUG SSLConnectionSocketFactory:389 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+13:05:13,139 DEBUG SSLConnectionSocketFactory:393 - Starting handshake
+13:05:14,764 DEBUG DefaultManagedHttpClientConnection:98 - http-outgoing-12: Shutdown connection
+13:05:14,764 DEBUG MainClientExec:128 - Connection discarded
+13:05:14,764 DEBUG PoolingHttpClientConnectionManager:320 - Connection released: [id: 12][route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+13:05:14,796 DEBUG RequestAddCookies:122 - CookieSpec selected: default
+13:05:14,796 DEBUG RequestAuthCache:76 - Auth cache not set in the context
+13:05:14,796 DEBUG PoolingHttpClientConnectionManager:249 - Connection request: [route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+13:05:14,796 DEBUG PoolingHttpClientConnectionManager:282 - Connection leased: [id: 13][route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+13:05:14,796 DEBUG MainClientExec:234 - Opening connection {s}->https://162.255.233.19:8443
+13:05:14,796 DEBUG DefaultHttpClientConnectionOperator:138 - Connecting to /162.255.233.19:8443
+13:05:14,796 DEBUG SSLConnectionSocketFactory:335 - Connecting socket to /162.255.233.19:8443 with timeout 0
+13:05:18,286 DEBUG SSLConnectionSocketFactory:388 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+13:05:18,287 DEBUG SSLConnectionSocketFactory:389 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+13:05:18,287 DEBUG SSLConnectionSocketFactory:393 - Starting handshake
+13:05:18,618 DEBUG DefaultManagedHttpClientConnection:98 - http-outgoing-13: Shutdown connection
+13:05:18,619 DEBUG MainClientExec:128 - Connection discarded
+13:05:18,619 DEBUG PoolingHttpClientConnectionManager:320 - Connection released: [id: 13][route: {s}->https://162.255.233.19:8443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+13:07:05,827 DEBUG PoolingHttpClientConnectionManager:388 - Connection manager is shutting down
+13:07:05,828 DEBUG PoolingHttpClientConnectionManager:394 - Connection manager shut down
+13:07:05,828 DEBUG PoolingHttpClientConnectionManager:388 - Connection manager is shutting down
+13:07:05,828 DEBUG DefaultManagedHttpClientConnection:81 - http-outgoing-11: Close connection
+13:07:05,830 DEBUG PoolingHttpClientConnectionManager:394 - Connection manager shut down
+13:07:05,830 DEBUG PoolingHttpClientConnectionManager:388 - Connection manager is shutting down
+13:07:05,830 DEBUG PoolingHttpClientConnectionManager:394 - Connection manager shut down
+13:07:05,831 DEBUG PoolingHttpClientConnectionManager:388 - Connection manager is shutting down
+13:07:05,831 DEBUG PoolingHttpClientConnectionManager:394 - Connection manager shut down
+13:07:05,835 DEBUG PoolingHttpClientConnectionManager:388 - Connection manager is shutting down
+13:07:05,835 DEBUG PoolingHttpClientConnectionManager:394 - Connection manager shut down
+13:07:05,835 DEBUG PoolingHttpClientConnectionManager:388 - Connection manager is shutting down
+13:07:05,835 DEBUG PoolingHttpClientConnectionManager:394 - Connection manager shut down
+13:07:05,836 DEBUG PoolingHttpClientConnectionManager:388 - Connection manager is shutting down
+13:07:05,836 DEBUG DefaultManagedHttpClientConnection:81 - http-outgoing-3: Close connection
+13:07:05,837 DEBUG PoolingHttpClientConnectionManager:394 - Connection manager shut down
+13:07:05,837 DEBUG PoolingHttpClientConnectionManager:388 - Connection manager is shutting down
+13:07:05,837 DEBUG PoolingHttpClientConnectionManager:394 - Connection manager shut down
+13:07:05,837 DEBUG PoolingHttpClientConnectionManager:388 - Connection manager is shutting down
+13:07:05,838 DEBUG PoolingHttpClientConnectionManager:394 - Connection manager shut down
+13:07:05,838 DEBUG PoolingHttpClientConnectionManager:388 - Connection manager is shutting down
+13:07:05,838 DEBUG PoolingHttpClientConnectionManager:394 - Connection manager shut down
+13:07:05,838 DEBUG PoolingHttpClientConnectionManager:388 - Connection manager is shutting down
+13:07:05,838 DEBUG PoolingHttpClientConnectionManager:394 - Connection manager shut down
+13:07:05,838 DEBUG PoolingHttpClientConnectionManager:388 - Connection manager is shutting down
+13:07:05,839 DEBUG PoolingHttpClientConnectionManager:394 - Connection manager shut down
+13:07:05,839 DEBUG PoolingHttpClientConnectionManager:388 - Connection manager is shutting down
+13:07:05,839 DEBUG PoolingHttpClientConnectionManager:394 - Connection manager shut down
+13:07:05,839 DEBUG PoolingHttpClientConnectionManager:388 - Connection manager is shutting down
+13:07:05,839 DEBUG PoolingHttpClientConnectionManager:394 - Connection manager shut down
+13:07:05,840 DEBUG PoolingHttpClientConnectionManager:388 - Connection manager is shutting down
+13:07:05,840 DEBUG PoolingHttpClientConnectionManager:394 - Connection manager shut down
+13:07:05,840 DEBUG PoolingHttpClientConnectionManager:388 - Connection manager is shutting down
+13:07:05,840 DEBUG PoolingHttpClientConnectionManager:394 - Connection manager shut down
+13:07:05,840 DEBUG PoolingHttpClientConnectionManager:388 - Connection manager is shutting down
+13:07:05,840 DEBUG PoolingHttpClientConnectionManager:394 - Connection manager shut down
